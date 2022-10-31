@@ -1,3 +1,4 @@
+# This Sorting Visualizer will perform linear sorting algorithms (Insertion Sort and Bubble Sort) using Pygame framework.
 import pygame
 import random
 import math
